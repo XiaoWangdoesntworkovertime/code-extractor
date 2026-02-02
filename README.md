@@ -1,13 +1,13 @@
 # Code Extractor 🚀
 
-[![Download](https://img.shields.io/github/downloads/你的用户名/code-extractor/total?label=Downloads&logo=github)](https://github.com/你的用户名/code-extractor/releases/latest)
-[![Version](https://img.shields.io/github/v/release/你的用户名/code-extractor?label=Version)](https://github.com/你的用户名/code-extractor/releases/latest)
+[![Download](https://img.shields.io/github/downloads/XiaoWangdoesntworkovertime/code-extractor/total?label=Downloads&logo=github)](https://github.com/XiaoWangdoesntworkovertime/code-extractor/releases/latest)
+[![Version](https://img.shields.io/github/v/release/XiaoWangdoesntworkovertime/code-extractor?label=Version)](https://github.com/XiaoWangdoesntworkovertime/code-extractor/releases/latest)
 
 > 高效的 VS Code 代码片段管理工具 - 提取、保存、复用你的代码
 
 ## 📥 安装
 
-1. 前往 [Releases](https://github.com/你的用户名/code-extractor/releases/latest) 下载最新 `.vsix` 文件
+1. 前往 [Releases](https://github.com/XiaoWangdoesntworkovertime/code-extractor/releases/latest) 下载最新 `.vsix` 文件
 2. 打开 VS Code，按 `Ctrl+Shift+P`
 3. 输入 `Install from VSIX`，选择下载的文件
 
